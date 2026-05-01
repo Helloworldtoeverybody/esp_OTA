@@ -1,5 +1,4 @@
 {
-  "version": 3,
-  "firmware": "firmware.bin",
-  "url": "http://nikita-esp.duckdns.org:5000/firmware/firmware.bin"
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/Helloworldtoeverybody/esp_OTA/main/firmware.bin"
 }
