@@ -1,0 +1,5 @@
+{
+  "version": 3,
+  "firmware": "firmware.bin",
+  "url": "http://nikita-esp.duckdns.org:5000/firmware/firmware.bin"
+}
